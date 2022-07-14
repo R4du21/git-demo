@@ -1,1 +1,1 @@
-Test file in testfolder
+Doing a pull before doing a commit and push
