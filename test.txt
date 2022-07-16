@@ -1,4 +1,1 @@
-Acum pot spune ca am invatat sa folosesc GIT pentru inceput.
-Well done!
-
-Commit la 2 fisiere
+Fisier editat din VS Code
