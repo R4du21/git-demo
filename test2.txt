@@ -1,1 +1,6 @@
-Acesta e un test
+More tests
+To test the commands!
+
+<html>
+<p> test </p>
+</html>
